@@ -28,3 +28,5 @@ To run this project, you need to have the following requirements installed:
 - NumPy
 - Matplotlib
 - Pandas
+
+https://www.youtube.com/watch?v=neBZ6huolkg 
